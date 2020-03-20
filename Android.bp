@@ -259,9 +259,3 @@ dex_import {
 	jars: ["proprietary/framework/WfdCommon.jar"],
 }
 
-dex_import {
-	name: "com.qualcomm.qti.camera",
-	owner: "xiaomi",
-	jars: ["proprietary/framework/com.qualcomm.qti.camera.jar"],
-}
-
