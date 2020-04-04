@@ -46,7 +46,6 @@ PRODUCT_COPY_FILES += \
     vendor/xiaomi/sakura/proprietary/lib/libmmrtpdecoder.so:$(TARGET_COPY_OUT_SYSTEM)/lib/libmmrtpdecoder.so \
     vendor/xiaomi/sakura/proprietary/lib/libmmrtpencoder.so:$(TARGET_COPY_OUT_SYSTEM)/lib/libmmrtpencoder.so \
     vendor/xiaomi/sakura/proprietary/lib/libqti-at.so:$(TARGET_COPY_OUT_SYSTEM)/lib/libqti-at.so \
-    vendor/xiaomi/sakura/proprietary/lib/libqti-iopd-client_system.so:$(TARGET_COPY_OUT_SYSTEM)/lib/libqti-iopd-client_system.so \
     vendor/xiaomi/sakura/proprietary/lib/libqti-perfd-client_system.so:$(TARGET_COPY_OUT_SYSTEM)/lib/libqti-perfd-client_system.so \
     vendor/xiaomi/sakura/proprietary/lib/libqti-util_system.so:$(TARGET_COPY_OUT_SYSTEM)/lib/libqti-util_system.so \
     vendor/xiaomi/sakura/proprietary/lib/libqti_performance.so:$(TARGET_COPY_OUT_SYSTEM)/lib/libqti_performance.so \
@@ -68,8 +67,6 @@ PRODUCT_COPY_FILES += \
     vendor/xiaomi/sakura/proprietary/lib/libwfduibcsinkinterface.so:$(TARGET_COPY_OUT_SYSTEM)/lib/libwfduibcsinkinterface.so \
     vendor/xiaomi/sakura/proprietary/lib/libwfduibcsrc.so:$(TARGET_COPY_OUT_SYSTEM)/lib/libwfduibcsrc.so \
     vendor/xiaomi/sakura/proprietary/lib/libwfduibcsrcinterface.so:$(TARGET_COPY_OUT_SYSTEM)/lib/libwfduibcsrcinterface.so \
-    vendor/xiaomi/sakura/proprietary/lib/vendor.qti.hardware.iop@1.0.so:$(TARGET_COPY_OUT_SYSTEM)/lib/vendor.qti.hardware.iop@1.0.so \
-    vendor/xiaomi/sakura/proprietary/lib/vendor.qti.hardware.iop@2.0.so:$(TARGET_COPY_OUT_SYSTEM)/lib/vendor.qti.hardware.iop@2.0.so \
     vendor/xiaomi/sakura/proprietary/lib64/com.qualcomm.qti.ant@1.0.so:$(TARGET_COPY_OUT_SYSTEM)/lib64/com.qualcomm.qti.ant@1.0.so \
     vendor/xiaomi/sakura/proprietary/lib64/libFileMux.so:$(TARGET_COPY_OUT_SYSTEM)/lib64/libFileMux.so \
     vendor/xiaomi/sakura/proprietary/lib64/libaptXHD_encoder.so:$(TARGET_COPY_OUT_SYSTEM)/lib64/libaptXHD_encoder.so \
@@ -86,8 +83,6 @@ PRODUCT_COPY_FILES += \
     vendor/xiaomi/sakura/proprietary/lib64/libwfdclient.so:$(TARGET_COPY_OUT_SYSTEM)/lib64/libwfdclient.so \
     vendor/xiaomi/sakura/proprietary/lib64/libwfdnative.so:$(TARGET_COPY_OUT_SYSTEM)/lib64/libwfdnative.so \
     vendor/xiaomi/sakura/proprietary/lib64/libwifikeystorehalext.so:$(TARGET_COPY_OUT_SYSTEM)/lib64/libwifikeystorehalext.so \
-    vendor/xiaomi/sakura/proprietary/lib64/vendor.qti.hardware.iop@1.0.so:$(TARGET_COPY_OUT_SYSTEM)/lib64/vendor.qti.hardware.iop@1.0.so \
-    vendor/xiaomi/sakura/proprietary/lib64/vendor.qti.hardware.iop@2.0.so:$(TARGET_COPY_OUT_SYSTEM)/lib64/vendor.qti.hardware.iop@2.0.so \
     vendor/xiaomi/sakura/proprietary/product/bin/dpmd:$(TARGET_COPY_OUT_PRODUCT)/bin/dpmd \
     vendor/xiaomi/sakura/proprietary/product/etc/dpm/dpm.conf:$(TARGET_COPY_OUT_PRODUCT)/etc/dpm/dpm.conf \
     vendor/xiaomi/sakura/proprietary/product/etc/init/dpmd.rc:$(TARGET_COPY_OUT_PRODUCT)/etc/init/dpmd.rc \
