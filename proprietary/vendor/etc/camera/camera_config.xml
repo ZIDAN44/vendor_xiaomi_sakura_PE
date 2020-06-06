@@ -89,7 +89,7 @@ LensInfo : Information of the lens present in the module.
     <SensorName>sakura_ov12a10_sunny</SensorName>
     <ActuatorName>sakura_dw9714v_sunny</ActuatorName>
     <EepromName>sakura_ov12a10_sunny</EepromName>
-    <ChromatixName>sakura_ov12a10_sunny_chromatix</ChromatixName>
+    <ChromatixName>ov12a10_chromatix</ChromatixName>
     <FlashName>pmic</FlashName>
     <ModesSupported>1</ModesSupported>
     <Position>BACK</Position>
@@ -115,7 +115,7 @@ LensInfo : Information of the lens present in the module.
     <SensorName>sakura_imx486_ofilm</SensorName>
     <ActuatorName>sakura_dw9714v_ofilm</ActuatorName>
     <EepromName>sakura_imx486_ofilm</EepromName>
-    <ChromatixName>sakura_imx486_ofilm_chromatix</ChromatixName>
+    <ChromatixName>imx486_chromatix</ChromatixName>
     <FlashName>pmic</FlashName>
     <ModesSupported>1</ModesSupported>
     <Position>BACK</Position>
